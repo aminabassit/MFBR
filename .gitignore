@@ -1,6 +1,4 @@
-**/data
-**/results
-**/lookupTables
+**/build
 **/__pycache__
 *.pdf
 *.pkl
