@@ -4,4 +4,4 @@
 *.pkl
 *.csv
 *.npy
-*.txt
+# *.txt
