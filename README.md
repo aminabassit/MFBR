@@ -79,7 +79,7 @@ sudo make exp<BTP><MODE>.cpp
 ```
 
 
-### Experiments for measuring the template size 
+#### Experiments for measuring the template size 
 
 
 The following experiments measure the template size of MFBR and the baseline BTPs by storing them in binary files.
