@@ -125,5 +125,12 @@ sudo make clean-data
 ## Bibtex Citation
 
 ```
-This is an accepted paper at the IJCB 2022 Conference. The proper citation will be made available soon.
+@inproceedings{bassit2022multiplication,
+  title={Multiplication-Free Biometric Recognition for Faster Processing under Encryption},
+  author={Bassit, Amina and Hahn, Florian and Veldhuis, Raymond and Peter, Andreas},
+  booktitle={2022 IEEE International Joint Conference on Biometrics (IJCB)},
+  pages={1--9},
+  year={2022},
+  organization={IEEE}
+}
 ```
