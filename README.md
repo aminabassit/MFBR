@@ -6,8 +6,8 @@ This repository contains the implementation for generating the lookup tables of 
 It also contains the proof-of-concept implementation of the integration of MFIP and MFSED with homomorphic encryption (HE) to perform biometric verification, which we call multiplication-free biometric recognition (MFBR).
 
 
-Assuming normalized feature vectors, the MFIP (resp. MFSED) lookup table is parametrized by the feature vectors' dimension $d$, a feature quantization level $2^n$ where $n$ expresses the number of bits, and a cell quantization step $\Delta$, which we denote as $\mathrm{MFIP}(d,n,\Delta)$ (resp.
-$\mathrm{MFSED}(d,n,\Delta)$).
+Assuming normalized feature vectors, the MFIP (resp. MFSED) lookup table is parametrized by the feature vectors' dimension $d$, a feature quantization level $2^n$ where $n$ expresses the number of bits, and a cell quantization step $\Delta$, which we denote as MFIP$(d,n,\Delta)$ (resp.
+MFSED$(d,n,\Delta)$).
 
 ## Remark
 
